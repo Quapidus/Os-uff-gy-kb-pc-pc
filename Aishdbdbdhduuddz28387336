@@ -1,2 +1,1 @@
-_G.key = "KEY_02dc2fbe8cf6439d9c3667c7ec23b3de"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AquaHub-decode/XouraHub/refs/heads/main/gui",true))()
+
